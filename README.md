@@ -1,2 +1,3 @@
 # training-deploy
-the deployment file
+Bonjour, je m'appelle Paul
+ceci et mon premier deploiement DevOps.
